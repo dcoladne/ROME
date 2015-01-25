@@ -1,0 +1,156 @@
+id,policy_corridor_name,description
+168,1-18,SH 53 Washington - Rathdrum
+151,1-01,US 95 Sandpoint - Canada
+157,1-07,US 2 US 95 - Montana
+162,1-12,SH 3 I 90 - Bovill (crosses into D2)
+163,1-13,SH 6 SH 3 - SH 9
+153,1-03,I 90 CDA - Montana
+156,1-06,US 2 Washington - Sandpoint
+160,1-10,SH 97
+159,1-09,SH 57
+167,1-17,US 95 Coeur d'Alene
+165,1-15,SH 41 Rathdrum - Oldtown
+164,1-14,SH 1 US 95 - Canada
+158,1-08,US 95 District 2 - CDA
+161,1-11,SH 5
+155,1-05,SH 41 I 90 - Rathdrum & SH 53 Rathdrum - US 95
+166,1-16,I-90 Coeur d'Alene
+152,1-02,US 95 CDA - Sandpoint
+177,2-07,SH 14
+186,2-16,SH 6 Washington - SH 9 & SH 66
+183,2-13,SH 8 Moscow E - Bovill
+178,2-08,SH 11
+182,2-12,SH 3 US 12 - Deary & SH 99
+188,2-18,US-12 Lewiston
+180,2-10,SH 62 & SH 64 & SH 162
+185,2-15,SH 8 Bovill - Elk River
+174,2-04,US 95 & SH 128 Lewiston
+175,2-05,US 12 Lewiston - Montana
+171,2-01,US 95 Moscow - D1 Boundary
+184,2-14,SH 9
+189,3-01,US 95 Payette - D2 Boundary
+179,2-09,SH 13
+170,1-20,SH 200
+173,2-03,US 95 Lewiston - Moscow
+172,2-02,SH 8 Moscow
+181,2-11,SH 7
+176,2-06,US 95 District 3 - Lewiston
+187,2-17,US 95 Moscow
+196,3-08,I84 Boise - Mountain Home
+191,3-03,US 95 Oregon - Payette
+200,3-12,I84 Payette - SH 44
+201,3-13,SH 51 Nevada - JCT SH 78 E
+207,3-19,SH 45 Nampa
+206,3-18,SH 55 Caldwell/Nampa
+192,3-04,SH 55 Marsing - Caldwell
+204,3-16,SH 51 SH 78 E - Mountain Home & SH 78 SH 51 - I 84 Bus Hammett
+202,3-14,SH 78 SH 55 - SH 51 & SH 45 SH 78 - Nampa
+190,3-02,I 84 Business Nampa/Caldwell
+208,3-20,SH 16 SH 44 - Emmett
+197,3-09,US 20 Mountain Home - D4 Boundary
+203,3-15,SH 67
+195,3-07,SH 21 Boise - D4 Boundary
+205,3-17,SH 71
+193,3-05,SH 44 I 84 - Chinden
+194,3-06,SH 55 Boise - New Meadows
+199,3-11,I84 Mountain Home - D4 Boundary
+209,3-21,US 20 I 84 Caldwell - Boise 13th Street
+213,3-25,I 84 Caldwell - Boise
+219,3-31,SH 19
+214,3-26,SH 69
+223,3-35,US 30 & SH 72 & US 95 Spurs Payette & Weiser
+215,3-27,I 84 Business Hammett
+229,4-06,US 26 Bliss - Shoshone
+222,3-34,I 84 Business Glens Ferry
+216,3-28,I 84 Business Mountain Home I 84 IC 90 - American Legion Blvd
+220,3-32,US 20 Oregon - I 84
+228,4-05,US 93 Twin Falls - Shoshone
+218,3-30,I-84 Business Mountain Home American Legion Blvd
+221,3-33,SH 52
+225,4-02,SH 75 Sun Valley/Hailey
+211,3-23,I 184 & US 20 Broadway-Chinden Connector
+224,4-01,SH 75 Stanley - Sun Valley
+226,4-03,SH Shoshone - Sun Valley
+217,3-29,SH 51 & SH 67 Mountain Home
+227,4-04,US 20 D3 Boundary - Carey
+210,3-22,SH 55 I 84 - SH 44 (Eagle Road)
+212,3-24,US 20 Boise 13th Street and Broadway
+243,4-20,US 93 Shoshone - Arco (crosses D6 boundary)
+248,5-01,I 86 District 4 - American Falls
+245,4-22,SH 46
+249,5-02,I 86 American Falls - Pocatello
+242,4-19,SH 25 I 84 IC 165 - I 84 IC 194 & SH 50 & US 30 Twin Falls - Kimberly
+235,4-12,US 93 Business Twin Falls & Diagonal Couplets in TF and US-30 E to SH-50
+246,4-23,I 86 Begin - D5 Boundary
+231,4-08,US 30 I 84 - Twin Falls
+236,4-13,US-30/I-84B Burley (east-west)
+241,4-18,SH 77 & SH 77 Spur & SH 81
+240,4-17,SH 27 Oakley - Burley
+239,4-16,US 30 Kimberly (JCT SH-50) - Burley
+233,4-10,US 93 Twin Falls Bypass
+230,4-07,I 84 Glenns Ferry - Utah
+154,1-04,Old US 95 Sandpoint
+169,1-19,I 90 B CDA Area
+234,4-11,US 30 & SH 74 Twin Falls
+232,4-09,US 93 Nevada - Twin Falls
+244,4-21,SH 25 I 84 IC 201 - I 84 IC 216
+237,4-14,SH 24 Rupert - Shoshone
+247,4-24,SH-74/I-84B Burley (north-south) & I 84 B Bliss & SH 46 S Wendell & US 93 S Challis & US 93 S Sun Valley & Lost TP & SH 79
+238,4-15,SH 21 D3 Boundary - Stanley
+256,5-09,US 30 and I-15 Business Pocatello
+254,5-07,US 26 D6 Boundary - Blackfoot
+263,5-16,SH 39
+252,5-05,Blackfoot (minus I 15)
+266,5-19,SH 36 SH 34 - US 89 & US 89 SH 36 - Wyoming & SH 61
+251,5-04,I 15 Pocatello - D6 Boundary
+260,5-13,US 91 Utah - I 15
+262,5-15,US-91 Pocatello - D6 Boundary
+267,5-20,US 89 Utah - SH 36
+269,5-22,SH 37
+261,5-14,I 15 Utah - McCammon
+264,5-17,SH 34 Soda Springs - Wyoming
+253,5-06,US 91 Pocatello
+258,5-11,US 30 McCammon - Soda Springs & I 15 Business McCammon
+268,5-21,SH 38
+259,5-12,US 30 Soda Springs - Wyoming
+257,5-10,I 15 McCammon - Pocatello
+255,5-08,I 15 Pocatello
+250,5-03,I 86 Business American Falls
+265,5-18,SH 34 Preston - US 30
+284,6-11,Idaho Falls (minus I 15 and US 20)
+273,5-26,SH 40
+276,6-03,US 93 Arco - Salmon
+274,6-01,US 93 Salmon - Montana
+279,6-06,I 15 Idaho Falls - Montana
+277,6-04,SH 33 US 20 - Rexburg
+271,5-24,I 86 Pocatello
+288,6-15,SH 32 Ashton - Tetonia
+287,6-14,SH 31 Swan Valley - Victor
+280,6-07,US 20 Rexburg - Montana
+289,6-16,SH 33 Rexburg - Wyoming
+281,6-08,SH 33 Rexburg
+283,6-10,US 26 Idaho Falls - Wyoming
+278,6-05,US 20 Arco-20/26 Junction
+285,6-12,US 20 US 26 - I 15 Idaho Falls
+286,6-13,SH87 Montana - US 20 & SH29 Leadore - Montana
+272,5-25,I 15 B McCammon & Inkom & US 30 B Lava Hot Springs
+282,6-09,US 20 Idaho Falls - Rexburg
+270,5-23,SH 36 I 15 - US 91
+293,6-20,SH 75 Stanley - Challis (starts in D4)
+295,6-22,I 15 D5 Boundary - Idaho Falls
+290,6-17,SH 48 Rigby - Ryrie
+297,6-24,US 91 D5 Boundary - Idaho Falls
+294,6-21,SH 47 Ashton - End of Route
+291,6-18,SH 22/33 - DuBois
+296,6-23,SH 43
+292,6-19,SH 28 Mud Lake - Salmon
+275,6-02,DEPRECATED: I 15 Idaho Falls
+198,3-10,DEPRECATED: Mountain Home
+298,1-21,US 2 Sandpoint
+299,1-22,US95 Sandpoint
+300,1-23,I 90 B Osburn & Mullen & Wallace & SH 4
+301,1-24,SH 54
+302,1-25,SH 60
+303,1-26,SH 66
+304,3-36,SH 44 Expressway Eagle
+305,3-37,US-95 Expressway Council

@@ -1,0 +1,7 @@
+id,rank,description,tier_benefit_factor,tier_cost_factor
+100,5,Other Freeway,150,12500
+125,6,Expressway,135,11000
+250,4,District,100,9000
+200,3,Regional,115,10000
+150,2,State,135,10000
+50,1,Interstate,150,12500

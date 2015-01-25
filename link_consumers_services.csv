@@ -1,0 +1,17 @@
+id,consumer,service
+50,employment,ride quality
+100,employment,travel time
+150,retail,structural integrity
+200,retail,travel time
+250,public transportation,ride quality
+300,public transportation,structural integrity
+350,public transportation,travel time
+400,agriculture,travel time
+450,tourism,ride quality
+500,resource extraction,travel time
+550,long haul,ride quality
+600,long haul,structural integrity
+650,short haul,ride quality
+700,short haul,structural integrity
+750,short haul,travel time
+800,school bus,travel time
